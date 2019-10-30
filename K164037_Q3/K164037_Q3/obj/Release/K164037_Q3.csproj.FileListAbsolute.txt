@@ -1,0 +1,7 @@
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\bin\Release\K164037_Q3.exe.config
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\bin\Release\K164037_Q3.exe
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\bin\Release\K164037_Q3.pdb
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\obj\Release\K164037_Q3.ProjectInstaller.resources
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\obj\Release\K164037_Q3.csproj.GenerateResource.Cache
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\obj\Release\K164037_Q3.exe
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q3\K164037_Q3\obj\Release\K164037_Q3.pdb
