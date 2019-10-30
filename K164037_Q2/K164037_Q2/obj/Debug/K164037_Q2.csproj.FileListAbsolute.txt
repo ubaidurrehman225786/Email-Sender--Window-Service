@@ -1,0 +1,9 @@
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\bin\Debug\K164037_Q2.exe.config
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\bin\Debug\K164037_Q2.exe
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\bin\Debug\K164037_Q2.pdb
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\obj\Debug\K164037_Q2.csprojResolveAssemblyReference.cache
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\obj\Debug\K164037_Q2.Form1.resources
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\obj\Debug\K164037_Q2.Properties.Resources.resources
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\obj\Debug\K164037_Q2.csproj.GenerateResource.Cache
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\obj\Debug\K164037_Q2.exe
+D:\Data\7th Semester\IPT\Assignment\2\K164037_Q2\K164037_Q2\obj\Debug\K164037_Q2.pdb
